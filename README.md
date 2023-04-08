@@ -4,7 +4,7 @@ A simple Hangman game I created in React with TypeScript and Vite. Feel free to 
 
 ## Installation
 
-Simply run `cd react-hangman` followed by `npm i` and optionally `npm run dev` in your terminal.
+Simply run `cd react-hangman` followed by `npm i` in your terminal.
 
 ## Technologies used
 
