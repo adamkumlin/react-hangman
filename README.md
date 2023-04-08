@@ -1,6 +1,6 @@
 # react-hangman
 
-A simple Hangman game I created in React with TypeScript and Vite. Feel free to only use the component or begin your new project directly from this project.
+A simple Hangman game I created with React and Vite in TypeScript. Feel free to only use the component or begin your new project directly from this project.
 
 ## Installation
 
